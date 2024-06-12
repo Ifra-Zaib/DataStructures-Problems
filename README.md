@@ -21,7 +21,8 @@
 + Breadth-First Search (BFS)
 + Depth-First Search (DFS)
 ##### All data structures handled with pointers except Simple Array. Some Data structure implemented with different variations.
-![DSA](https://github.com/Ifra-Zaib/DataStructures-Codes-Problems/assets/172352661/5c2cf4e8-850e-4460-b110-4fb4188c6590)
+![DSA](https://github.com/Ifra-Zaib/DataStructures-Problems/assets/172352661/b72aaa72-77b0-4958-8304-939811bd22f9)
+
 
 
 
